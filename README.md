@@ -1,4 +1,4 @@
-# EAN-13 Barcode Generator for Adobe Illustrator
+# Генератор бар-кода EAN-13 для Adobe Illustrator
 
 ## 📥 Легкий и мощный скрипт (JSX) для создания векторных штрихкодов стандарта EAN-13 прямо внутри Adobe Illustrator.
 
