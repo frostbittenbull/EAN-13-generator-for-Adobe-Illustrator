@@ -20,23 +20,22 @@
 
 ### Автоматическая (Windows)
 
-В релизах есть файл Install.bat.
+В релизах есть файл `Install.bat`.
 1. Закройте Adobe Illustrator.
-2. Запустите Install.bat от имени Администратора.
-3. Выберите язык установки (RU/EN). Скрипт сам найдет путь к папке с пресетами Adobe Illustrator и установит шрифт ocrb10.otf.
+2. Запустите `Install.bat` от имени Администратора.
+3. Выберите язык установки (RU/EN). Скрипт сам найдет путь к папке с пресетами Adobe Illustrator и установит шрифт `ocrb10.otf`.
 
-### Ручная
 ### Если Вы используете macOS или хотите установить вручную:
 
 1. Скопируйте файл RU.jsx (или EN.jsx) в папку скриптов Adobe Illustrator:
-  **Win:** C:\Program Files\Adobe\Adobe Illustrator [версия]\Presets\[язык]\Scripts
-  **macOS:** /Applications/Adobe Illustrator [версия]/Presets/[язык]/Scripts
+  **Win:** `C:\Program Files\Adobe\Adobe Illustrator [версия]\Presets\[язык]\Scripts`
+  **macOS:** `/Applications/Adobe Illustrator [версия]/Presets/[язык]/Scripts`
 2. Перезапустите Adobe Illustrator.
 
 ---
 
 ## 📖 Как использовать
-1. Перейдите в меню Файл -> Сценарии -> Bar-code (File -> Scripts -> Bar-code).
+1. Перейдите в меню `Файл -> Сценарии -> Bar-code (File -> Scripts -> Bar-code).`
 2. Введите 12 цифр Вашего кода.
 3. Настройте пропорции во второй вкладке и позицию в третьей.
 4. Нажмите "OK".
