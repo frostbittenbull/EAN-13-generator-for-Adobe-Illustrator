@@ -28,7 +28,7 @@
 ### Если Вы используете macOS или хотите установить вручную:
 
 1. Скопируйте файл RU.jsx (или EN.jsx) в папку скриптов Adobe Illustrator:
-  > **Win:** `C:\Program Files\Adobe\Adobe Illustrator [версия]\Presets\[язык]\Scripts`
+  > **Win:** `C:\Program Files\Adobe\Adobe Illustrator [версия]\Presets\[язык]\Scripts`  
   > **macOS:** `/Applications/Adobe Illustrator [версия]/Presets/[язык]/Scripts`
 2. Перезапустите Adobe Illustrator.
 
